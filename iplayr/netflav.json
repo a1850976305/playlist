@@ -6,78 +6,78 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "推荐",
-			"url0": "https://netflav.com/trending",
-			"url1": "https://netflav.com/trending?page={pg}"
+			"url0": "https://netflav5.com/trending",
+			"url1": "https://netflav5.com/trending?page={pg}"
 		},
 	        {
 			"title": "有码",
-			"url0": "https://netflav.com/censored",
-			"url1": "https://netflav.com/censored?page={pg}"
+			"url0": "https://netflav5.com/censored",
+			"url1": "https://netflav5.com/censored?page={pg}"
 		},
 		{
 			"title": "有码",
-			"url0": "https://netflav.com/censored",
-			"url1": "https://netflav.com/censored?page={pg}"
+			"url0": "https://netflav5.com/censored",
+			"url1": "https://netflav5.com/censored?page={pg}"
 		},
 		{
 			"title": "有码",
-			"url0": "https://netflav.com/censored",
-			"url1": "https://netflav.com/censored?page={pg}"
+			"url0": "https://netflav5.com/censored",
+			"url1": "https://netflav5.com/censored?page={pg}"
 		},
 	        {
 			"title": "中文字幕",
-			"url0": "https://netflav.com/chinese-sub",
-			"url1": "https://netflav.com/chinese-sub?page={pg}"
+			"url0": "https://netflav5.com/chinese-sub",
+			"url1": "https://netflav5.com/chinese-sub?page={pg}"
 		},
 		{
 			"title": "巨乳",
-			"url0": "https://netflav.com/all?genre=巨乳",
-			"url1": "https://netflav.com/all?genre=巨乳?page={pg}"
+			"url0": "https://netflav5.com/all?genre=巨乳",
+			"url1": "https://netflav5.com/all?genre=巨乳?page={pg}"
 		},
 		{
 			"title": "出軌",
-			"url0": "https://netflav.com/all?genre=出軌",
-			"url1": "https://netflav.com/all?genre=出軌?page={pg}"
+			"url0": "https://netflav5.com/all?genre=出軌",
+			"url1": "https://netflav5.com/all?genre=出軌?page={pg}"
 		},
 		{
 			"title": "小野夕子",
-			"url0": "https://netflav.com/all?actress=小野夕子",
-			"url1": "https://netflav.com/all?actress=小野夕子?page={pg}"
+			"url0": "https://netflav5.com/all?actress=小野夕子",
+			"url1": "https://netflav5.com/all?actress=小野夕子?page={pg}"
 		},
 		{
 			"title": "三上悠亜",
-			"url0": "https://netflav.com/all?actress=三上悠亜",
-			"url1": "https://netflav.com/all?actress=三上悠亜?page={pg}"
+			"url0": "https://netflav5.com/all?actress=三上悠亜",
+			"url1": "https://netflav5.com/all?actress=三上悠亜?page={pg}"
 		},
 		{
 			"title": "山手梨愛",
-			"url0": "https://netflav.com/all?actress=山手梨愛",
-			"url1": "https://netflav.com/all?actress=山手梨愛?page={pg}"
+			"url0": "https://netflav5.com/all?actress=山手梨愛",
+			"url1": "https://netflav5.com/all?actress=山手梨愛?page={pg}"
 		},
 		{
 			"title": "佐山愛",
-			"url0": "https://netflav.com/all?actress=佐山愛",
-			"url1": "https://netflav.com/all?actress=佐山愛?page={pg}"
+			"url0": "https://netflav5.com/all?actress=佐山愛",
+			"url1": "https://netflav5.com/all?actress=佐山愛?page={pg}"
 		},
 		{
 			"title": "JULIA",
-			"url0": "https://netflav.com/all?actress=JULIA",
-			"url1": "https://netflav.com/all?actress=JULIA?page={pg}"
+			"url0": "https://netflav5.com/all?actress=JULIA",
+			"url1": "https://netflav5.com/all?actress=JULIA?page={pg}"
 		},
 		{
 			"title": "神宮寺ナオ",
-			"url0": "https://netflav.com/all?actress=神宮寺ナオ",
-			"url1": "https://netflav.com/all?actress=神宮寺ナオ?page={pg}"
+			"url0": "https://netflav5.com/all?actress=神宮寺ナオ",
+			"url1": "https://netflav5.com/all?actress=神宮寺ナオ?page={pg}"
 		},
 		{
 			"title": "日下部加奈",
-			"url0": "https://netflav.com/all?actress=日下部加奈",
-			"url1": "https://netflav.com/all?actress=日下部加奈?page={pg}"
+			"url0": "https://netflav5.com/all?actress=日下部加奈",
+			"url1": "https://netflav5.com/all?actress=日下部加奈?page={pg}"
 		},
 		{
 			"title": "波多野結衣",
-			"url0": "https://netflav.com/all?actress=波多野結衣",
-			"url1": "https://netflav.com/all?actress=波多野結衣?page={pg}"
+			"url0": "https://netflav5.com/all?actress=波多野結衣",
+			"url1": "https://netflav5.com/all?actress=波多野結衣?page={pg}"
 		}
 	],  
 "vod_node":"//div[contains(@class, 'video_grid_container')]//div[contains(@class, 'grid_cell')]",
@@ -88,7 +88,7 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//a/@href",
-"vod_link_url":"https://netflav.com{id}",
+"vod_link_url":"https://netflav5.com{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
@@ -98,13 +98,13 @@
 "playlist_link_url":"",
 "playlist_info":"",
 "search_flag":true,
-"search_url_first_page":"https://netflav.com/search?type=title&keyword={wd}",
-"search_url_other_page":"https://netflav.com/search?keyword={wd}&page={pg}&type=title",
+"search_url_first_page":"https://netflav5.com/search?type=title&keyword={wd}",
+"search_url_other_page":"https://netflav5.com/search?keyword={wd}&page={pg}&type=title",
 "search_vod_node":"//div[contains(@class, 'video_grid_container')]//div[contains(@class, 'grid_cell')]",
 "search_vod_title":"//div[@class='grid_title']",
 "search_vod_image_id":"//a//img/@src",
 "search_vod_image_regex":"",
 "search_vod_image_url":"{id}",
 "search_vod_link_id":"//a/@href",
-"search_vod_link_url":"https://netflav.com{id}"
+"search_vod_link_url":"https://netflav5.com{id}"
 }
