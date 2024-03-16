@@ -6,34 +6,104 @@
 "referer":"https://emturbovid.com/",
  "open_with_safari_flag": true,
 "category": [{
-			"title": "censored",
-			"url0": "https://supjav.com/category/censored-jav",
-			"url1": "https://supjav.com/category/censored-jav/page/{pg}"
+			"title": "热门",
+			"url0": "https://supjav.com/zh/popular",
+			"url1": "https://supjav.com/zh/popular/page/{pg}"
+		},	
+    {
+			"title": "有码",
+			"url0": "https://supjav.com/zh/category/censored-jav",
+			"url1": "https://supjav.com/zh/category/censored-jav/page/{pg}"
 		},
     {
-			"title": "uncensored",
-			"url0": "https://supjav.com/category/uncensored-jav",
-			"url1": "https://supjav.com/category/uncensored-jav/page/{pg}"
+			"title": "无码",
+			"url0": "https://supjav.com/zh/category/uncensored-jav",
+			"url1": "https://supjav.com/zh/category/uncensored-jav/page/{pg}"
 		},
     {
-			"title": "amateur",
-			"url0": "https://supjav.com/category/amateur",
-			"url1": "https://supjav.com/category/amateur/page/{pg}"
+			"title": "素人",
+			"url0": "https://supjav.com/zh/category/amateur",
+			"url1": "https://supjav.com/zh/category/amateur/page/{pg}"
 		},
     {
-			"title": "chinese-subtitles",
-			"url0": "https://supjav.com/category/chinese-subtitles",
-			"url1": "https://supjav.com/category/chinese-subtitles/page/{pg}"
+			"title": "中文字幕",
+			"url0": "https://supjav.com/zh/category/chinese-subtitles",
+			"url1": "https://supjav.com/zh/category/chinese-subtitles/page/{pg}"
+		},	
+    {
+			"title": "无码破解",
+			"url0": "https://supjav.com/zh/category/reducing-mosaic",
+			"url1": "https://supjav.com/zh/category/reducing-mosaic/page/{pg}"
+		},
+    {
+			"title": "巨乳",
+			"url0": "https://supjav.com/zh/tag/big-tits",
+			"url1": "https://supjav.com/zh/tag/big-tits/page/{pg}"
+		},	
+    {
+			"title": "出轨",
+			"url0": "https://supjav.com/zh/tag/affair",
+			"url1": "https://supjav.com/zh/tag/affair/page/{pg}"
+		},
+    {
+			"title": "波多野结衣",
+			"url0": "https://supjav.com/zh/category/cast/hatano-yui",
+			"url1": "https://supjav.com/zh/category/cast/hatano-yui/page/{pg}"
+		},
+    {
+			"title": "JULIA",
+			"url0": "https://supjav.com/zh/category/cast/julia",
+			"url1": "https://supjav.com/zh/category/cast/julia/page/{pg}"
 		},{
-			"title": "reducing-mosaic",
-			"url0": "https://supjav.com/category/reducing-mosaic",
-			"url1": "https://supjav.com/category/reducing-mosaic/page/{pg}"
+			"title": "君島みお",
+			"url0": "https://supjav.com/zh/category/cast/kimijima-mio",
+			"url1": "https://supjav.com/zh/category/cast/kimijima-mio/page/{pg}"
 		},
      {
-			"title": "english-subtitles",
-			"url0": "https://supjav.com/category/english-subtitles",
-			"url1": "https://supjav.com/category/english-subtitles/page/{pg}"
-		}
+			"title": "三上悠亜",
+			"url0": "https://supjav.com/zh/category/cast/mikami-yua",
+			"url1": "https://supjav.com/zh/category/cast/mikami-yua/page/{pg}"
+		},
+     {
+			"title": "奥田咲",
+			"url0": "https://supjav.com/zh/category/cast/okuda-saki",
+			"url1": "https://supjav.com/zh/category/cast/okuda-saki/page/{pg}"
+		},
+     {
+			"title": "小野夕子",
+			"url0": "https://supjav.com/zh/category/cast/ono-yuuko",
+			"url1": "https://supjav.com/zh/category/cast/ono-yuuko/page/{pg}"
+		},
+     {
+			"title": "明日花キララ",
+			"url0": "https://supjav.com/zh/category/cast/asuka-kirara",
+			"url1": "https://supjav.com/zh/category/cast/asuka-kirara/page/{pg}"
+		},
+     {
+			"title": "美乃すずめ",
+			"url0": "https://supjav.com/zh/category/cast/mino-suzume",
+			"url1": "https://supjav.com/zh/category/cast/mino-suzume/page/{pg}"
+		},
+     {
+			"title": "山手梨愛",
+			"url0": "https://supjav.com/zh/category/cast/yamate-rina",
+			"url1": "https://supjav.com/zh/category/cast/yamate-rina/page/{pg}"
+		},
+     {
+			"title": "MOODYZ",
+			"url0": "https://supjav.com/zh/category/maker/moodyz",
+			"url1": "https://supjav.com/zh/category/maker/moodyz/page/{pg}"
+		},
+     {
+			"title": "S1 NO.1 STYLE",
+			"url0": "https://supjav.com/zh/category/maker/s1-no-1-style",
+			"url1": "https://supjav.com/zh/category/maker/s1-no-1-style/page/{pg}"
+		},
+     {
+			"title": "一本道",
+			"url0": "https://supjav.com/zh/category/maker/1pondo",
+			"url1": "https://supjav.com/zh/category/maker/1pondo/page/{pg}"
+		}	
 	],  
 "vod_node":"//div[contains(@class, 'posts')]//div[contains(@class, 'post')]",
 "vod_info":"//div[@class='meta']",
