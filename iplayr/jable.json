@@ -13,6 +13,11 @@
 			"url0": "https://jable.tv/new-release/",
 			"url1": "https://jable.tv/new-release/{pg}/"
 		},
+		{
+			"title": "女优",
+			"url0": "https://jable.tv/models/",
+			"url1": "https://jable.tv/models/{pg}/"
+		},
                                {
 			"title": "角色剧情",
 			"url0": "https://jable.tv/categories/roleplay/",
