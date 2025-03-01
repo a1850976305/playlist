@@ -8,13 +8,13 @@
 "category": [
 	{
 			"title": "最近上市",
-			"url0": "https://123av.com/zh/new-release",
-			"url1": "https://123av.com/zh/new-release?page={pg}"
+			"url0": "https://123av.com/zh/dm2/new-release",
+			"url1": "https://123av.com/zh/dm2/new-release?page={pg}"
 		},
 	{
 			"title": "最近更新",
-			"url0": "https://123av.com/zh/recent-update",
-			"url1": "https://123av.com/zh/recent-update?page={pg}"
+			"url0": "https://123av.com/zh/dm2/recent-update",
+			"url1": "https://123av.com/zh/dm2/recent-update?page={pg}"
 		}
 	],    
 "vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
