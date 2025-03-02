@@ -3,6 +3,7 @@
 "title":"123av",
 "episode_flag":false,
 "landscape_flag":true,
+"open_with_safari_flag":false,	
 "category": [
 	{
 			"title": "最近上市",
