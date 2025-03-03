@@ -6,6 +6,11 @@
 "referer":"https://motv.app/",
 "open_with_safari_flag":false,
 "category": [{
+			"title": "最近更新",
+			"url0": "https://motv.app/label/new/",
+			"url1": "https://motv.app/label/new/page/{pg}/"
+		},
+  {
 			"title": "日本有码",
 			"url0": "https://motv.app/vodshow/20-----------/",
 			"url1": "https://motv.app/vodshow/20--------{pg}---/"
@@ -18,7 +23,12 @@
   {
 			"title": "国产",
 			"url0": "https://motv.app/vodshow/41-----------/",
-			"url1": "https://motv.app/vodshow/41--------{pg}---/"
+			"url1": "https://motv.app/vodshow/41--------{pg}/"
+		},
+  {
+			"title": "水果派",
+			url0": "https://motv.app/vodshow/35-----------/",
+			"url1": "https://motv.app/vodshow/35--------{pg}---/"
 		}
 	],    
 "vod_node":"//div[contains(@class, 'movie-list-body flex')]//div[contains(@class, 'movie-list-item')]",
