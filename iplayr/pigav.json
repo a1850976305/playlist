@@ -3,6 +3,7 @@
 "title":"pigav",
 "episode_flag":false,
 "landscape_flag":true,
+"open_with_safari_flag": false,
 "category": [{
 			"title": "新作上市",
 			"url0": "https://pigav.com/%e6%9c%80%e6%96%b0av%e7%b7%9a%e4%b8%8a%e7%9c%8b",
